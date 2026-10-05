@@ -58,9 +58,9 @@ Below is a curated comparison of enterprise SaaS log management and cloud analyt
 
 ## ⚡ Open-Source GitHub Projects
 
-The open-source logging ecosystem features powerful self-hosted analytics engines, vector forwarders, and full-stack observability suites. Below are top repositories sorted by **GitHub Stars (Descending)**:
+The open-source logging ecosystem features powerful self-hosted analytics engines, vector forwarders, and full-stack observability suites. Below are top repositories sorted by **GitHub_Stars (Descending)**:
 
-| 📦 Project Name | ⭐ GitHub Stars | 📝 Description & Primary Category |
+| 📦 Project Name | ⭐ GitHub_Stars | 📝 Description & Primary Category |
 | :--- | :--- | :--- |
 | **[Elasticsearch](https://github.com/elastic/elasticsearch)** | [<img src="https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white" alt="Elasticsearch Stars"/>](https://github.com/elastic/elasticsearch/stargazers) | Distributed, RESTful search and analytics engine powering the classic ELK stack. |
 | **[SigNoz](https://github.com/SigNoz/signoz)** | [<img src="https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white" alt="SigNoz Stars"/>](https://github.com/SigNoz/signoz/stargazers) | Open-source OpenTelemetry-native full-stack observability platform (logs, metrics, traces). |
